@@ -1703,6 +1703,7 @@ namespace OpenSource_LOTO_A02
             // 
             // numericUpDown7
             // 
+            this.numericUpDown7.DecimalPlaces = 2;
             this.numericUpDown7.Location = new System.Drawing.Point(653, 439);
             this.numericUpDown7.Name = "numericUpDown7";
             this.numericUpDown7.Size = new System.Drawing.Size(120, 30);
